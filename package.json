@@ -1,0 +1,22 @@
+{
+  "name": "ttvchat",
+  "version": "1.0.0",
+  "description": "The Start",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhromFromFireEmblem/TTVBot.git"
+  },
+  "author": "DarkSparkNova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KhromFromFireEmblem/TTVBot/issues"
+  },
+  "homepage": "https://github.com/KhromFromFireEmblem/TTVBot#readme",
+  "dependencies": {
+    "chat.js": "^1.0.2"
+  }
+}
